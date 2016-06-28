@@ -7,7 +7,7 @@ and [ipython-sql](https://github.com/catherinedevlin/ipython-sql).
 
 ## Usage
 
-See [Demo.ipynb](Demo.ipynb)
+See [Demo.ipynb](http://nbviewer.jupyter.org/github/titouanc/ipython-postgis/blob/master/Demo.ipynb)
 
 Geographies should be serialized as GeoJSON. All columns names that contain
 `geojson` willl be displayed on the map (it is the case for geographies serialized
